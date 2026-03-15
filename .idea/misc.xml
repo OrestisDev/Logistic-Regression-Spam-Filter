@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="uv (Logistic regression filter)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="uv (Logistic regression filter)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="uv (Logistic-Regression-Spam-Filter)" project-jdk-type="Python SDK" />
 </project>
